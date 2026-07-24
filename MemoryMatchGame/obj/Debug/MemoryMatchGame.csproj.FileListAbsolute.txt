@@ -1,0 +1,7 @@
+D:\DotnetSource\MemoryMatchGame\MemoryMatchGame\bin\Debug\MemoryMatchGame.exe.config
+D:\DotnetSource\MemoryMatchGame\MemoryMatchGame\bin\Debug\MemoryMatchGame.exe
+D:\DotnetSource\MemoryMatchGame\MemoryMatchGame\bin\Debug\MemoryMatchGame.pdb
+D:\DotnetSource\MemoryMatchGame\MemoryMatchGame\obj\Debug\MemoryMatchGame.csproj.AssemblyReference.cache
+D:\DotnetSource\MemoryMatchGame\MemoryMatchGame\obj\Debug\MemoryMatchGame.csproj.CoreCompileInputs.cache
+D:\DotnetSource\MemoryMatchGame\MemoryMatchGame\obj\Debug\MemoryMatchGame.exe
+D:\DotnetSource\MemoryMatchGame\MemoryMatchGame\obj\Debug\MemoryMatchGame.pdb
